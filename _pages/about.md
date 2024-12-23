@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href=https://cdn.bleacherreport.net/images_root/slides/photos/000/826/073/644983_display_image.jpg?1301623046>CS @ Stanford </a>.
+subtitle: <a href=https://cdn.bleacherreport.net/images_root/slides/photos/000/826/073/644983_display_image.jpg?1301623046>Computer Science @ Stanford </a>
 
 profile:
   align: right
