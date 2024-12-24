@@ -2,7 +2,7 @@
 layout: page
 permalink: /about-me/
 title: About Me
-description: Materials for courses you taught. Replace this text with your description.
+description: Hayley 101
 nav: true
 nav_order: 6
 ---
