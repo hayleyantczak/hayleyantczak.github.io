@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: <strong><a href=https://cdn.bleacherreport.net/images_root/slides/photos/000/826/073/644983_display_image.jpg?1301623046>Computer Science @ Stanford </a></strong>
 
