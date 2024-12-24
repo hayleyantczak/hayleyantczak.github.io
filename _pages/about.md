@@ -2,14 +2,14 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href=https://cdn.bleacherreport.net/images_root/slides/photos/000/826/073/644983_display_image.jpg?1301623046>Computer Science @ Stanford </a>
+subtitle: <strong><a href=https://cdn.bleacherreport.net/images_root/slides/photos/000/826/073/644983_display_image.jpg?1301623046>Computer Science @ Stanford </a></strong>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>hantczak@stanford.edu</p>
+    <p>     ✉️ hantczak@stanford.edu</p>
     <p></p>
     <p></p>
 
