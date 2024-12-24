@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>     ✉️ hantczak@stanford.edu</p>
-    <p>     <a href=https://www.linkedin.com/in/hayley-antczak>👩🏽‍💼LinkedIn </a></p>
+    <p>     <a href=https://www.linkedin.com/in/hayley-antczak>👩🏽‍💼 LinkedIn </a></p>
     <p></p>
 
 news: false # includes a list of news items
