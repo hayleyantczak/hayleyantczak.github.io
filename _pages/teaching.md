@@ -2,9 +2,10 @@
 layout: page
 permalink: /about-me/
 title: My Lore 📜
-description: The Long-Form Version of My Bio (With Pictures!)
+description: >
+  <span style="color: #e03c31; font-weight: bold;">The Long-Form Version of My Bio (With Pictures!)</span>
 nav: true
 nav_order: 2
 ---
 
-Hayley 101 
+ 
