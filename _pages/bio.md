@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: personal
 permalink: /about-me/
 title: Extended Bio
 classes: bio
