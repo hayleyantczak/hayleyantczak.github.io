@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /about-me/
-title: About Me
+title: Extended Bio
 classes: bio
 page_title: My Lore 📜
-description: The Long-Form Version of My Bio (With Pictures!)
+description: A More Personal Look at My Background (for those who enjoy an origin story)
 nav: true
 nav_order: 2
 ---
