@@ -6,7 +6,7 @@
   
   // Subtitle under title (outside article)
   .post-description {
-    font-size: 1rem;
+    font-size: 1.25rem;
     color: var(--global-theme-color);
     font-weight: bold;
   }
@@ -15,7 +15,8 @@
     // Body text
     p {
       font-family: monospace;
-      font-size: 1rem;
+      font-size: 1.15rem;
+      font-weight: 500
       line-height: 1.6;
     }
 
