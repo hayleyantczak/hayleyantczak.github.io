@@ -1,0 +1,45 @@
+/*******************************************************************************
+ * Style overrides for extended bio
+ ******************************************************************************/
+
+.page-bio {
+  // Subtitle under title (outside article)
+  .post-description {
+    font-size: 1rem;
+    color: var(--global-theme-color);
+    font-weight: bold;
+  }
+
+  article {
+    // Body text
+    p {
+      font-family: monospace;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    // Links
+    a {
+      color: var(--global-theme-color);
+
+      &:hover {
+        color: var(--global-theme-color);
+        text-decoration: underline;
+      }
+    }
+
+    // Headings
+    h1, h2, h3, h4, h5, h6 {
+      font-family: monospace;
+    }
+
+    // Image captions
+    .caption {
+      font-size: 0.875rem;
+      font-style: italic;
+      text-align: center;
+      margin-top: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+  }
+}
