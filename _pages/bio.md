@@ -1,5 +1,5 @@
 ---
-layout: personal
+layout: page
 permalink: /about-me/
 title: Extended Bio
 page_title: My Lore 📜
