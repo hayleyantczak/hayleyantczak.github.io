@@ -9,11 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>✉️ <a href="mailto:&#104;&#097;&#121;&#108;&#101;&#121;&#064;&#099;&#115;&#046;&#115;&#116;&#097;&#110;&#102;&#111;&#114;&#100;&#046;&#101;&#100;&#117;">
-      &#104;&#097;&#121;&#108;&#101;&#121;&#064;&#099;&#115;&#046;&#115;&#116;&#097;&#110;&#102;&#111;&#114;&#100;&#046;&#101;&#100;&#117;
-    </a></p>
+    <p>✉️ &#104;&#097;&#121;&#108;&#101;&#121;&#064;&#099;&#115;&#046;&#115;&#116;&#097;&#110;&#102;&#111;&#114;&#100;&#046;&#101;&#100;&#117;</p>
     <p><a href="https://www.linkedin.com/in/hayley-antczak">👩🏽‍💼 LinkedIn</a></p>
-    <p></p> 
+    <p></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
