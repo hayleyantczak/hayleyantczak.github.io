@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a junior at Stanford University pursuing a B.S. in Computer Science with a concentration in Artificial Intelligence. This site is still under construction :) 
+Hi! My name is Hayley, and I am a junior at Stanford University pursuing a B.S. in Computer Science with a concentration in Artificial Intelligence. This site is still under construction :) 
 
 <!--
 Bio/introduction Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
